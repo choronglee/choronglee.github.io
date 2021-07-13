@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chorong Lee's Portfolio"
+title                    : "개발자 이초롱"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Chorong Lee"
@@ -109,7 +109,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:choronglee.dev@gmail.com"
+      # url: "mailto:choronglee.dev@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
